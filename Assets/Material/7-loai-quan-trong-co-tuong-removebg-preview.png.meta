@@ -1,0 +1,603 @@
+fileFormatVersion: 2
+guid: 1f3ae904708fbd446a5e3c1ef5e17663
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6864426250880249576
+    second: 7-loai-quan-trong-co-tuong-removebg-preview_0
+  - first:
+      213: 1280228887019499844
+    second: 7-loai-quan-trong-co-tuong-removebg-preview_1
+  - first:
+      213: 1120160023085316582
+    second: 7-loai-quan-trong-co-tuong-removebg-preview_2
+  - first:
+      213: -8504687745310599838
+    second: 7-loai-quan-trong-co-tuong-removebg-preview_3
+  - first:
+      213: -8895637148641388087
+    second: 7-loai-quan-trong-co-tuong-removebg-preview_4
+  - first:
+      213: 7980368792041101298
+    second: 7-loai-quan-trong-co-tuong-removebg-preview_5
+  - first:
+      213: 6632520312543983648
+    second: 7-loai-quan-trong-co-tuong-removebg-preview_6
+  - first:
+      213: -3739910658808738843
+    second: 7-loai-quan-trong-co-tuong-removebg-preview_14
+  - first:
+      213: 7107193388433421729
+    second: 7-loai-quan-trong-co-tuong-removebg-preview_15
+  - first:
+      213: -3420220032988929055
+    second: 7-loai-quan-trong-co-tuong-removebg-preview_16
+  - first:
+      213: -7399279957772348718
+    second: 7-loai-quan-trong-co-tuong-removebg-preview_17
+  - first:
+      213: 1120846209947558226
+    second: 7-loai-quan-trong-co-tuong-removebg-preview_18
+  - first:
+      213: -561338321338316287
+    second: 7-loai-quan-trong-co-tuong-removebg-preview_19
+  - first:
+      213: 5097450150089345800
+    second: 7-loai-quan-trong-co-tuong-removebg-preview_20
+  - first:
+      213: 5864765540023802657
+    second: 7-loai-quan-trong-co-tuong-removebg-preview_28
+  - first:
+      213: -2366152889781678912
+    second: 7-loai-quan-trong-co-tuong-removebg-preview_29
+  - first:
+      213: -611666930451027494
+    second: 7-loai-quan-trong-co-tuong-removebg-preview_30
+  - first:
+      213: -5793724557744589370
+    second: 7-loai-quan-trong-co-tuong-removebg-preview_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 7-loai-quan-trong-co-tuong-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 138
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee659e4e47534f50800000000000000
+      internalID: 6864426250880249576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-loai-quan-trong-co-tuong-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 138
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441bdf9c36944c110800000000000000
+      internalID: 1280228887019499844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-loai-quan-trong-co-tuong-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 138
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9f79b2b9b9b8f00800000000000000
+      internalID: 1120160023085316582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-loai-quan-trong-co-tuong-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 138
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265d42f2e8749f980800000000000000
+      internalID: -8504687745310599838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-loai-quan-trong-co-tuong-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 138
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c91678f4295c8480800000000000000
+      internalID: -8895637148641388087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-loai-quan-trong-co-tuong-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 138
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f719327227ffbe60800000000000000
+      internalID: 7980368792041101298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-loai-quan-trong-co-tuong-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 138
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0283fba65127b0c50800000000000000
+      internalID: 6632520312543983648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-loai-quan-trong-co-tuong-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 49
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb020a121b291cc0800000000000000
+      internalID: -3739910658808738843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-loai-quan-trong-co-tuong-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 49
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a534933bb2d1a260800000000000000
+      internalID: 7107193388433421729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-loai-quan-trong-co-tuong-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 49
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e325084000f880d0800000000000000
+      internalID: -3420220032988929055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-loai-quan-trong-co-tuong-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 49
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2df4bd41a705990800000000000000
+      internalID: -7399279957772348718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-loai-quan-trong-co-tuong-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 49
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25164cf70bb0e8f00800000000000000
+      internalID: 1120846209947558226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-loai-quan-trong-co-tuong-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 49
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ac0d555c9b538f0800000000000000
+      internalID: -561338321338316287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-loai-quan-trong-co-tuong-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 49
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b465077e7cdb640800000000000000
+      internalID: 5097450150089345800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-loai-quan-trong-co-tuong-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 20
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b12109f25d36150800000000000000
+      internalID: 5864765540023802657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-loai-quan-trong-co-tuong-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 7
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc8c40bb7cb92fd0800000000000000
+      internalID: -2366152889781678912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-loai-quan-trong-co-tuong-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 9
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9ec91ea2ce287f0800000000000000
+      internalID: -611666930451027494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-loai-quan-trong-co-tuong-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c53d21163e889fa0800000000000000
+      internalID: -5793724557744589370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      7-loai-quan-trong-co-tuong-removebg-preview_0: 6864426250880249576
+      7-loai-quan-trong-co-tuong-removebg-preview_1: 1280228887019499844
+      7-loai-quan-trong-co-tuong-removebg-preview_14: -3739910658808738843
+      7-loai-quan-trong-co-tuong-removebg-preview_15: 7107193388433421729
+      7-loai-quan-trong-co-tuong-removebg-preview_16: -3420220032988929055
+      7-loai-quan-trong-co-tuong-removebg-preview_17: -7399279957772348718
+      7-loai-quan-trong-co-tuong-removebg-preview_18: 1120846209947558226
+      7-loai-quan-trong-co-tuong-removebg-preview_19: -561338321338316287
+      7-loai-quan-trong-co-tuong-removebg-preview_2: 1120160023085316582
+      7-loai-quan-trong-co-tuong-removebg-preview_20: 5097450150089345800
+      7-loai-quan-trong-co-tuong-removebg-preview_28: 5864765540023802657
+      7-loai-quan-trong-co-tuong-removebg-preview_29: -2366152889781678912
+      7-loai-quan-trong-co-tuong-removebg-preview_3: -8504687745310599838
+      7-loai-quan-trong-co-tuong-removebg-preview_30: -611666930451027494
+      7-loai-quan-trong-co-tuong-removebg-preview_31: -5793724557744589370
+      7-loai-quan-trong-co-tuong-removebg-preview_4: -8895637148641388087
+      7-loai-quan-trong-co-tuong-removebg-preview_5: 7980368792041101298
+      7-loai-quan-trong-co-tuong-removebg-preview_6: 6632520312543983648
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
